@@ -1,4 +1,4 @@
-usuarios = {1,5,76,34,52,13,17}
+usuarios = {1, 5, 76, 34, 52, 13, 17}
 print(usuarios)
 print(len(usuarios))
 usuarios.add(765)
